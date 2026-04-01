@@ -1,7 +1,5 @@
 # Weighted Vertex Cover — 2-Approximation via LP Rounding
 
-> **Report & source code:** [Project Folder — insert link here]()
-
 Python implementation of the classic **2-approximation algorithm** for the
 **Weighted Vertex Cover (WVC)** problem, based on LP relaxation and threshold
 rounding.
